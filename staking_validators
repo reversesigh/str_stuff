@@ -1,4 +1,4 @@
-[rbatty@section9dennou ~]$ strcli q staking validators --node tcp://65.108.238.104:14657 --trust-node
+strcli q staking validators --node tcp://65.108.238.104:14657 --trust-node
 - |
   operatoraddress: strvaloper1zf3xrlaguewhl30kp6z47rwrun008g4we0j897
   conspubkey: strvalconspub1zcjduepqawketj8nq0hwft7zda3g7netfezva9l0zrhp0qkwx6luu9up9luqz3z8rt
