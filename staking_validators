@@ -1,0 +1,485 @@
+[rbatty@section9dennou ~]$ strcli q staking validators --node tcp://65.108.238.104:14657 --trust-node
+- |
+  operatoraddress: strvaloper1zf3xrlaguewhl30kp6z47rwrun008g4we0j897
+  conspubkey: strvalconspub1zcjduepqawketj8nq0hwft7zda3g7netfezva9l0zrhp0qkwx6luu9up9luqz3z8rt
+  jailed: false
+  status: 2
+  tokens: "8603530990000000000000022"
+  delegatorshares: "8690435343434343434343454.546063394873238875"
+  description:
+    moniker: Secure Secrets
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 2886460
+  unbondingcompletiontime: 2021-04-10T16:48:20.536704502Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.300000000000000000"
+      max_change_rate: "0.050000000000000000"
+    update_time: 2020-09-21T16:00:08.054838205Z
+  minselfdelegation: "1000000000000000000"
+- |
+  operatoraddress: strvaloper1yrtj6v5h4753gj7g06zcstc2vyeuff04p6khy5
+  conspubkey: strvalconspub1zcjduepqj2xgt5urjqc9zwqdajfrqfncmtr8qrtukdjmh5ysst8uyxl3w0kqd5hmfr
+  jailed: true
+  status: 0
+  tokens: "10618841266305796757992"
+  delegatorshares: "11166090819491530779772.581751036802732159"
+  description:
+    moniker: STAKE-R-US-STR
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 5139779
+  unbondingcompletiontime: 2021-09-09T03:12:13.707775628Z
+  commission:
+    commission_rates:
+      rate: "0.060000000000000000"
+      max_rate: "0.180000000000000000"
+      max_change_rate: "0.020000000000000000"
+    update_time: 2020-09-15T18:00:00Z
+  minselfdelegation: "10"
+- |
+  operatoraddress: strvaloper1y8rxdkyek7drpkk82clg58ftxdjreswru44u9t
+  conspubkey: strvalconspub1zcjduepq4hlay458seaynvsx3p8hg05vdre36rnzs6r93hf55u7g95x34a8sje69hm
+  jailed: true
+  status: 0
+  tokens: "990009900000000000000000"
+  delegatorshares: "1000010000000000000000000.000000000000000000"
+  description:
+    moniker: Staking4All
+    identity: ""
+    website: https://www.staking4all.org/
+    security_contact: ""
+    details: We want to make staking on blockchain projects clear and transparent so everyone can stake and receive returns on their crypto holdings. Stake with us!
+  unbondingheight: 4916882
+  unbondingcompletiontime: 2021-08-25T04:05:16.906841419Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.250000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-02-18T14:32:35.107105894Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper19dyjjsa33ngfwfnzzacv9ndzyz7sv3clejzwyh
+  conspubkey: strvalconspub1zcjduepquvynu4xqnfnj7v5prfyq6l7laa9yw3z8f2dwcmswqq9vlc25c8nspzc7yk
+  jailed: false
+  status: 2
+  tokens: "684482380000227760781948"
+  delegatorshares: "684482380000227760781948.000000000000000000"
+  description:
+    moniker: JelliedOwl
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: JelliedOwl's Straightedge validator
+  unbondingheight: 0
+  unbondingcompletiontime: 1970-01-01T00:00:00Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.250000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-05-01T15:21:48.113143019Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1xgdpwa2jnu5z8v5z0dch9d8yhzu4pudh767c0f
+  conspubkey: strvalconspub1zcjduepqxknve6juzpsk9nq4q0scsllmqzdqv83nh08x5ql3xd0agf0aj5xqsa7t97
+  jailed: false
+  status: 2
+  tokens: "19559218880787544928020948"
+  delegatorshares: "19756786744766126129332585.364600713174516183"
+  description:
+    moniker: sikka
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 2917171
+  unbondingcompletiontime: 2021-04-12T19:15:40.214935524Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "1.000000000000000000"
+    update_time: 2020-09-15T18:00:00Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1xvslkcz7dzy0d36xyqrt4u6hsvd7v9q0pngk68
+  conspubkey: strvalconspub1zcjduepqa5jry0cxexkeuwg5kgjptyegqlw42wlu0hk7n0m43pga87r72jgqw369pg
+  jailed: true
+  status: 0
+  tokens: "4672030779971436023320080"
+  delegatorshares: "4719223010000000000000000.379932217813152906"
+  description:
+    moniker: STR printer go brrr
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 6584231
+  unbondingcompletiontime: 2021-12-14T21:09:58.07165373Z
+  commission:
+    commission_rates:
+      rate: "0.080000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "1.000000000000000000"
+    update_time: 2021-01-28T16:54:16.568875073Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper18dy4q95wf5f7up7tpc5h3605h8xk6wtsrgpfnq
+  conspubkey: strvalconspub1zcjduepqymejjv2798cqtyzkgd9t3g50ctafr6ypm5trhsfxan5qynd245sqevmty3
+  jailed: false
+  status: 2
+  tokens: "91874821192568107975533421"
+  delegatorshares: "91874821192568107975533421.000000000000000000"
+  description:
+    moniker: OpenTech Staking
+    identity: D8111D75F6FD9C34
+    website: ""
+    security_contact: ""
+    details: 'Through hardship to the stars. Telegram: https://t.me/ot_staking'
+  unbondingheight: 0
+  unbondingcompletiontime: 1970-01-01T00:00:00Z
+  commission:
+    commission_rates:
+      rate: "0.050000000000000000"
+      max_rate: "0.200000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-02-12T08:04:25.109115286Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper187kh6p37d56tccm0hkmud8j6drn37cq7ez4pf5
+  conspubkey: strvalconspub1zcjduepqud2w2puklt9mcw0rx4c28v4da8xw4ywre9xa3kjkmwm0aq82wtgs4yu383
+  jailed: true
+  status: 0
+  tokens: "5841990000000000000000"
+  delegatorshares: "5901000000000000000000.000000000000000000"
+  description:
+    moniker: DokiaCapital
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 2598901
+  unbondingcompletiontime: 2021-03-22T06:26:38.252339406Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2020-09-15T19:12:16.149554009Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper12wwhn4uzvghqjga7zt6jj4rc33v3sat9mwj9x9
+  conspubkey: strvalconspub1zcjduepqhgf78nq9ta5gk7affh73k582c8k082wvaa0ttc3p0075ned8phhsduw4l3
+  jailed: true
+  status: 0
+  tokens: "88209000084222424620"
+  delegatorshares: "90000000000000000000.860136064154658796"
+  description:
+    moniker: cwgoes
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 4278950
+  unbondingcompletiontime: 2021-07-13T11:33:59.237326317Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "0.100000000000000000"
+    update_time: 2020-09-15T18:00:00Z
+  minselfdelegation: "1000000"
+- |
+  operatoraddress: strvaloper12kmwpa7u3hvzysm5eltdcaze9qyeq4wm72yyal
+  conspubkey: strvalconspub1zcjduepqr9laqx3vhgepj94yknqvvyqj70yadzcskr3x8kvz9gzpc43wxevs4zfk67
+  jailed: false
+  status: 2
+  tokens: "16651303623594433705950092"
+  delegatorshares: "16651303623594433705950092.000000000000000000"
+  description:
+    moniker: maqir
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 0
+  unbondingcompletiontime: 1970-01-01T00:00:00Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.100000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-11-04T12:56:19.519140706Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper12hu735kclz2yqzwvxgdlsjuze4xmvh96mya87s
+  conspubkey: strvalconspub1zcjduepqv3vem9h2hhc6pmykm589fdqvk6rlxd9d80lhcpn9z0ftzfav697s2yluay
+  jailed: true
+  status: 0
+  tokens: "990000000000000000"
+  delegatorshares: "1000000000000000000.000000000000000000"
+  description:
+    moniker: KINGKONG
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 1361250
+  unbondingcompletiontime: 2020-12-30T12:05:07.760844261Z
+  commission:
+    commission_rates:
+      rate: "0.089000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "0.500000000000000000"
+    update_time: 2020-10-07T21:43:26.142677404Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper138jm07g386ewf3xcwjr22rq68htdplhc2h9vqe
+  conspubkey: strvalconspub1zcjduepqvw537r368lax8raqun84c8gk9803umjd2tr38qvvp8vz5nujn73q0esdkv
+  jailed: true
+  status: 0
+  tokens: "1002056187899206374139623"
+  delegatorshares: "1012177966792457573593553.799666901659414603"
+  description:
+    moniker: =Stakehub
+    identity: ""
+    website: http://explorer.straighted.ge/validators
+    security_contact: ""
+    details: Stake Hub is a Straightedge Network Validator
+  unbondingheight: 4974481
+  unbondingcompletiontime: 2021-08-29T00:42:42.260336479Z
+  commission:
+    commission_rates:
+      rate: "0.050000000000000000"
+      max_rate: "0.250000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-02-24T12:28:07.992029191Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper13np7qmpkgrluwyrc76fuef7l9p4yqcjyrnxa6a
+  conspubkey: strvalconspub1zcjduepqdr3x5a64uma5xnfhj08cz4zkq9qe8etwsdvqd37hk0cacm7ruy3sa8g3c7
+  jailed: false
+  status: 2
+  tokens: "6274121000000000000000000"
+  delegatorshares: "6274121000000000000000000.000000000000000000"
+  description:
+    moniker: UbikCapital
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 0
+  unbondingcompletiontime: 1970-01-01T00:00:00Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "0.100000000000000000"
+    update_time: 2021-01-25T19:44:07.856045659Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper13hldceml7gxtaq29n8mcunsmsxs5pdmr7dnea8
+  conspubkey: strvalconspub1zcjduepqnfuvf4km3k5dkdpmwx0kd556n7f2exc5zavvqhnf4vduxlqwy06qnvk60z
+  jailed: true
+  status: 0
+  tokens: "97020000000000000000"
+  delegatorshares: "98000000000000000000.000000000000000000"
+  description:
+    moniker: StakeLab
+    identity: 6A9ED0E0C862CC09
+    website: https://www.stakelab.fr
+    security_contact: securite@stakelab.fr
+    details: Le laboratoire de délégation est le premier validateur francophone prêt à vous accompagner dans vos investissements décentralisés
+  unbondingheight: 3473205
+  unbondingcompletiontime: 2021-05-20T08:07:48.304940467Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.200000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-05-02T12:59:05.619733708Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1n9me2w8jl7gnktaqsvw0ydtqdswr3vwsa7dk27
+  conspubkey: strvalconspub1zcjduepqq07kk89eccek7k2qfmlq4jyzdh0cu6paqu4ck03qp5chglnaalqswnq48p
+  jailed: true
+  status: 0
+  tokens: "110625085237218412657994598"
+  delegatorshares: "111742510337218412657994598.000000000000000000"
+  description:
+    moniker: Bi23 Labs
+    identity: EB3470949B3E89E2
+    website: https://bi23.com
+    security_contact: ""
+    details: Bi23 Labs is a trusted POS infrastructure provider and validator to comfortably stake your coins and earn rewards with Celo,Cosmos,IRISnet,Terra,KAVA,Solana,Straightedge
+  unbondingheight: 8387638
+  unbondingcompletiontime: 2022-04-19T22:47:19.981353077Z
+  commission:
+    commission_rates:
+      rate: "0.060000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "0.050000000000000000"
+    update_time: 2021-02-24T03:55:21.630904802Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper15j0xrql449a47lnqsz6vy2n68nmezx0ame3mz6
+  conspubkey: strvalconspub1zcjduepqj9meavenvn4sz0407ajucx8zpcrug320vq0mun737kyayr6jc8yq27l0te
+  jailed: true
+  status: 0
+  tokens: "188979433013451691434"
+  delegatorshares: "190888314673516286997.330501565361199942"
+  description:
+    moniker: Prithvi
+    identity: A35D680518685FE4
+    website: ""
+    security_contact: ""
+    details: Developer Grp, focusing on building Decentralised applications
+  unbondingheight: 2634935
+  unbondingcompletiontime: 2021-03-24T16:30:25.806301314Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.250000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-02-15T04:22:39.748308675Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper140l6y2gp3gxvay6qtn70re7z2s0gn57z8gz586
+  conspubkey: strvalconspub1zcjduepqhqshllnq6mhzwevhamwaz9u0au7wpdy0p03t8hx7kr0y6zkxacyq3lmymm
+  jailed: false
+  status: 2
+  tokens: "60238257690861532015218444"
+  delegatorshares: "60238257690861532015218444.000000000000000000"
+  description:
+    moniker: Lavender.Five Nodes
+    identity: F87ADDB700C0CC94
+    website: http://www.lavenderfive.com/
+    security_contact: hello@lavenderfive.com
+    details: Professional Validator Services
+  unbondingheight: 0
+  unbondingcompletiontime: 1970-01-01T00:00:00Z
+  commission:
+    commission_rates:
+      rate: "0.050000000000000000"
+      max_rate: "0.100000000000000000"
+      max_change_rate: "0.050000000000000000"
+    update_time: 2021-12-24T10:37:31.534503208Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1hzxncrc3dfcuvlj8tz2ut5p8zpa3gfpzf77vfn
+  conspubkey: strvalconspub1zcjduepqgw5x8luju8g27ajqvusexjgpcfhnf5f7a68uk36myzvua3crts6quvz823
+  jailed: true
+  status: 0
+  tokens: "3184034701854832694318249"
+  delegatorshares: "3216196661854832694318249.000000000000000000"
+  description:
+    moniker: pathrocknetwork
+    identity: 8E9797A900A7A429
+    website: ""
+    security_contact: ""
+    details: StakeBikeLove
+  unbondingheight: 8220215
+  unbondingcompletiontime: 2022-04-07T13:01:53.788172315Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.250000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2021-05-01T08:32:25.794921197Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1e6nfs2lypkn58f7uvzxfqs4y6ju390cwr459zn
+  conspubkey: strvalconspub1zcjduepquttaalhlj56md3y4n495rzecxuje9wy4l3gfm5mu5zxpc5szjg2q9dz2d4
+  jailed: false
+  status: 2
+  tokens: "25840991003930379815513992"
+  delegatorshares: "25840991003930379815513992.000000000000000000"
+  description:
+    moniker: Forbole
+    identity: 2861F5EE06627224
+    website: https://forbole.com
+    security_contact: ""
+    details: "\U0001F1ED\U0001F1F0"
+  unbondingheight: 0
+  unbondingcompletiontime: 1970-01-01T00:00:00Z
+  commission:
+    commission_rates:
+      rate: "0.095000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "1.000000000000000000"
+    update_time: 2020-09-17T11:24:48.872210508Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1mqrvzupqrjl2zhw28hs728w65hkq3j9ck9tf08
+  conspubkey: strvalconspub1zcjduepqqp35cyg3ru43mmrwvq7w07lz6meazuzactv5jq840qpu5ud5596s2y4t03
+  jailed: true
+  status: 0
+  tokens: "104076410453507691343646726"
+  delegatorshares: "106189582275299067485129887.307143848159820552"
+  description:
+    moniker: locke
+    identity: ""
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 8327977
+  unbondingcompletiontime: 2022-04-15T09:05:37.533050731Z
+  commission:
+    commission_rates:
+      rate: "0.050000000000000000"
+      max_rate: "1.000000000000000000"
+      max_change_rate: "1.000000000000000000"
+    update_time: 2020-09-15T18:00:00Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper177dlka4vvjf6y7h06hurdk2f79jwxqdmevxe3h
+  conspubkey: strvalconspub1zcjduepqcdfzw33jyrq0tklprgv6439zrd72566k75742wxnr6900p8mqhmqtckldq
+  jailed: false
+  status: 2
+  tokens: "1080179980000000000000000"
+  delegatorshares: "1102112000000000000000000.000000000000000000"
+  description:
+    moniker: x400.network
+    identity: 05C51E4C20E2324B
+    website: ""
+    security_contact: ""
+    details: ""
+  unbondingheight: 9267097
+  unbondingcompletiontime: 2022-06-20T14:59:02.745232527Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.250000000000000000"
+      max_change_rate: "0.010000000000000000"
+    update_time: 2022-02-01T22:59:35.825483721Z
+  minselfdelegation: "1"
+- |
+  operatoraddress: strvaloper1lc24j6638wqmz3yygaatfcyxkul36h28kch5ma
+  conspubkey: strvalconspub1zcjduepql93snv2ky6qpm59xtx9t4dz2m473unsn4c9aq95jcqvkne2g8c8qen5w7w
+  jailed: true
+  status: 0
+  tokens: "73077504695793950871472085"
+  delegatorshares: "73815661307825492262811277.404212730530494251"
+  description:
+    moniker: Block Producer
+    identity: 6E4D7901FD620209
+    website: https://twitter.com/block_producer
+    security_contact: ""
+    details: I make blocks.
+  unbondingheight: 6734257
+  unbondingcompletiontime: 2021-12-25T01:11:18.111130247Z
+  commission:
+    commission_rates:
+      rate: "0.100000000000000000"
+      max_rate: "0.400000000000000000"
+      max_change_rate: "0.020000000000000000"
+    update_time: 2020-10-05T18:03:27.939995836Z
+  minselfdelegation: "1"
